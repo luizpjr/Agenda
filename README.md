@@ -1,3 +1,3 @@
 # Agenda
 
-Projeto de agenda criando com JavaScript para criar agenda de contatos.
+Projeto de agenda criado com JavaScript para simular uma agenda de contatos.
