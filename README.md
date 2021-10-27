@@ -1,3 +1,3 @@
-# projetos
+# Agenda
 
-testtes
+Projeto de agenda criando com JavaScript para criar agenda de contatos.
